@@ -67,9 +67,6 @@ public class Main {
                 System.out.println("똑바로 입력하샘");
 
             }
-
-
-
         }
     }
 }
